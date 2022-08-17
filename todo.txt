@@ -1,2 +1,2 @@
 # download all images and import them to the repository and use them through the repository.
-! Change Harry Potter 2 Spelling In GBA Launcher
+! Change Harry Potter 2 Spelling In GBA Launcher as potter is spelt pottter
