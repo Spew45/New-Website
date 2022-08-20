@@ -1,2 +1,16 @@
 <title>Webretro</title>
 <script type="text/javascript" src="embed.js"></script>
+
+<style>
+    #webretro-container {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<script>
+    var frame = webretroEmbed(document.getElementById("webretro-container"), "../", {system: "gba", rom: "namco_museum.gba"});
+    document.getElementById("fullscreen").onclick = function() {
+        frame.requestFullscreen();
+    };
+</script>
