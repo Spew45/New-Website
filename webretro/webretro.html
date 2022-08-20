@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -17,11 +18,11 @@
 		<input type="button" id="fullscreen" value="Fullscreen">
 		<br>
 		<br>
-		<a href="roms/LICENSE.txt">License for the example game "2048"</a>
+		<a href="https://binbashbanana.github.io/webretro/embed/roms/LICENSE.txt">License for the example game "2048"</a>
 		
-		<script type="text/javascript" src="embed.js"></script>
+		<script type="text/javascript" src="https://binbashbanana.github.io/webretro/embed/embed.js"></script>
 		<script>
-			var frame = webretroEmbed(document.getElementById("webretro-container"), "../", {autodetect, rom: "roms/2048.nes"});
+			var frame = webretroEmbed(document.getElementById("webretro-container"), "../", {system: "nes", rom: "2048.nes"});
 			document.getElementById("fullscreen").onclick = function() {
 				frame.requestFullscreen();
 			};
