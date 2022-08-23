@@ -1,10 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
-<link rel="stylesheet" href="main.css" type="text/css">
+<style>
+game {
+    vertical-align: middle;
+}
+</style>
 
 <game>
-<p align="center"><iframe src="https://spew45.github.io/Stuff/projects/slope/index.html" id="slope" width="60%" height="60%"></iframe>
+<a href="openFullscreen();"><p align="center"><iframe src="https://spew45.github.io/Stuff/projects/slope/index.html" id="slope" style="width: fit-content; height: fit-content;"></iframe>
 </game>
 
-<script type = "text/javascript" src="function.js"></script>
+<script>
+var elem = document.getElementById("slope");
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
+</script>
