@@ -3,3 +3,6 @@
 Sep 8, 2022 -
     - Added Changelog
     - Added Mathway
+
+Sep 11, 2022 -
+    - Added Drift Boss
