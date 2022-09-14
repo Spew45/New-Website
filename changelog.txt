@@ -14,6 +14,7 @@ Sep 13, 2022
     - Added NBA Jam Tournament Edition [SNES]
     - Added Mega Man X [SNES]
     - Added The Legend Of Zelda [NES]
+    - Added 3kh0
 
 Sep 14, 2022 - 
     - Added Paper Io 2
