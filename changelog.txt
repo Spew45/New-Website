@@ -18,3 +18,7 @@ Sep 13, 2022
 
 Sep 14, 2022 - 
     - Added Paper Io 2
+    - Added Wordle
+
+Sep 17, 2022 - 
+    - Added Flappybird [buggy]
