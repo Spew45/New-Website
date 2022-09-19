@@ -1,4 +1,6 @@
 # Changelog
+#-# Current Biggest Update - Sep 13, 2022
+
 > - Upgrade / Fix
 + - Adding Something
 x - Deleting Something
@@ -30,3 +32,4 @@ Sep 19, 2022 -
     + Retrobowl
     > Pixel Shooter Icon
     + Basketball Stars
+    + Geometry Dash
