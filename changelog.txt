@@ -1,27 +1,32 @@
 # Changelog
+> - Upgrade / Fix
++ - Adding Something
+x - Deleting Something
 
 Sep 8, 2022 -
-    - Added Changelog
-    - Added Mathway
+    + Changelog
+    + Mathway
 
 Sep 11, 2022 -
-    - Added Drift Boss
-    - Added Run 3
+    + Drift Boss
+    +  Run 3
 
 Sep 13, 2022
-    - Added Super Mario Bros 2 [NES]
-    - Added Super Mario Bros 3 [NES]
-    - Added NBA Jam Tournament Edition [SNES]
-    - Added Mega Man X [SNES]
-    - Added The Legend Of Zelda [NES]
-    - Added 3kh0
+    + Super Mario Bros 2 [NES]
+    + Super Mario Bros 3 [NES]
+    + NBA Jam Tournament Edition [SNES]
+    + Mega Man X [SNES]
+    + The Legend Of Zelda [NES]
+    + 3kh0 [Unblocked From Go Gaurdian]
 
 Sep 14, 2022 - 
-    - Added Paper Io 2
-    - Added Wordle
+    + Paper Io 2
+    + Wordle
 
 Sep 17, 2022 - 
-    - Added Flappybird [buggy]
+    + Flappybird [buggy]
 
 Sep 19, 2022 - 
-    - Added Retrobowl
+    + Retrobowl
+    > Pixel Shooter Icon
+    + Basketball Stars
