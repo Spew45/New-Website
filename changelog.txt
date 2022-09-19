@@ -33,3 +33,4 @@ Sep 19, 2022 -
     > Pixel Shooter Icon
     + Basketball Stars
     + Geometry Dash
+    + Getaway Shootout
