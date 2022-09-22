@@ -17,7 +17,18 @@
     </head>
     <body>
         <div id="content">
-            <iframe width="100%" height="100%" frameborder="0" src="/js/prompt.js"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" src="myFunction()"></iframe>
         </div>
     </body>
 </html>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  let person = prompt("Please Enter The Link, Make Sure To Include HTTPS", "https://www.google.com/");
+  if (person != null) {
+    document.getElementById("demo").innerHTML =
+  }
+}
+</script>
