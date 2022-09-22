@@ -2,7 +2,7 @@
 <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Playing</title>
+        <title>Playing Iframes</title>
         <style type="text/css">
             body, html
             {
@@ -17,18 +17,7 @@
     </head>
     <body>
         <div id="content">
-            <iframe width="100%" height="100%" frameborder="0" src="myFunction()"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" src="javascript:((function()%7Bvar a,b,c;c=prompt('What Link Should I Use?')"></iframe>
         </div>
     </body>
-</html>
-
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-  let person = prompt("Please Enter The Link, Make Sure To Include HTTPS", "https://www.google.com/");
-  if (person != null) {
-    document.getElementById("demo").innerHTML =
-  }
-}
-</script>
+</html>hw
