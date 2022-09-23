@@ -1,0 +1,1 @@
+javascript:window.open(String('view-source:') + String(prompt("Paste link here")))
